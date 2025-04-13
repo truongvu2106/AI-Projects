@@ -1,0 +1,1 @@
+Epoch [27/35], Step [1/9247], Loss: 1.8609, Perplexity: 6.4296, Duration per step: 9.879 s
